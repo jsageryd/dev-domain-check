@@ -1,0 +1,1296 @@
+{"domain":"00.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"01.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"02.dev","available":true,"tier":"premium"}
+{"domain":"03.dev","available":true,"tier":"premium"}
+{"domain":"04.dev","available":true,"tier":"premium"}
+{"domain":"05.dev","available":true,"tier":"premium"}
+{"domain":"06.dev","available":true,"tier":"premium"}
+{"domain":"07.dev","available":true,"tier":"premium"}
+{"domain":"08.dev","available":true,"tier":"premium"}
+{"domain":"09.dev","available":true,"tier":"premium"}
+{"domain":"0a.dev","available":true,"tier":"premium"}
+{"domain":"0b.dev","available":true,"tier":"premium"}
+{"domain":"0c.dev","available":true,"tier":"premium"}
+{"domain":"0d.dev","available":true,"tier":"premium"}
+{"domain":"0e.dev","available":true,"tier":"premium"}
+{"domain":"0f.dev","available":true,"tier":"premium"}
+{"domain":"0g.dev","available":true,"tier":"premium"}
+{"domain":"0h.dev","available":true,"tier":"premium"}
+{"domain":"0i.dev","available":true,"tier":"premium"}
+{"domain":"0j.dev","available":true,"tier":"premium"}
+{"domain":"0k.dev","available":true,"tier":"premium"}
+{"domain":"0l.dev","available":true,"tier":"premium"}
+{"domain":"0m.dev","available":true,"tier":"premium"}
+{"domain":"0n.dev","available":true,"tier":"premium"}
+{"domain":"0o.dev","available":true,"tier":"premium"}
+{"domain":"0p.dev","available":true,"tier":"premium"}
+{"domain":"0q.dev","available":true,"tier":"premium"}
+{"domain":"0r.dev","available":true,"tier":"premium"}
+{"domain":"0s.dev","available":true,"tier":"premium"}
+{"domain":"0t.dev","available":true,"tier":"premium"}
+{"domain":"0u.dev","available":true,"tier":"premium"}
+{"domain":"0v.dev","available":true,"tier":"premium"}
+{"domain":"0w.dev","available":true,"tier":"premium"}
+{"domain":"0x.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"0y.dev","available":true,"tier":"premium"}
+{"domain":"0z.dev","available":true,"tier":"premium"}
+{"domain":"10.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"11.dev","available":true,"tier":"premium"}
+{"domain":"12.dev","available":true,"tier":"premium"}
+{"domain":"13.dev","available":true,"tier":"premium"}
+{"domain":"14.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"15.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"16.dev","available":true,"tier":"premium"}
+{"domain":"17.dev","available":true,"tier":"premium"}
+{"domain":"18.dev","available":true,"tier":"premium"}
+{"domain":"19.dev","available":true,"tier":"premium"}
+{"domain":"1a.dev","available":true,"tier":"premium"}
+{"domain":"1b.dev","available":true,"tier":"premium"}
+{"domain":"1c.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"1d.dev","available":true,"tier":"premium"}
+{"domain":"1e.dev","available":true,"tier":"premium"}
+{"domain":"1f.dev","available":true,"tier":"premium"}
+{"domain":"1g.dev","available":true,"tier":"premium"}
+{"domain":"1h.dev","available":true,"tier":"premium"}
+{"domain":"1i.dev","available":true,"tier":"premium"}
+{"domain":"1j.dev","available":true,"tier":"premium"}
+{"domain":"1k.dev","available":true,"tier":"premium"}
+{"domain":"1l.dev","available":true,"tier":"premium"}
+{"domain":"1m.dev","available":true,"tier":"premium"}
+{"domain":"1n.dev","available":true,"tier":"premium"}
+{"domain":"1o.dev","available":true,"tier":"premium"}
+{"domain":"1p.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"1q.dev","available":true,"tier":"premium"}
+{"domain":"1r.dev","available":true,"tier":"premium"}
+{"domain":"1s.dev","available":true,"tier":"premium"}
+{"domain":"1t.dev","available":true,"tier":"premium"}
+{"domain":"1u.dev","available":true,"tier":"premium"}
+{"domain":"1v.dev","available":true,"tier":"premium"}
+{"domain":"1w.dev","available":true,"tier":"premium"}
+{"domain":"1x.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"1y.dev","available":true,"tier":"premium"}
+{"domain":"1z.dev","available":true,"tier":"premium"}
+{"domain":"20.dev","available":true,"tier":"premium"}
+{"domain":"21.dev","available":true,"tier":"premium"}
+{"domain":"22.dev","available":true,"tier":"premium"}
+{"domain":"23.dev","available":true,"tier":"premium"}
+{"domain":"24.dev","available":true,"tier":"premium"}
+{"domain":"25.dev","available":true,"tier":"premium"}
+{"domain":"26.dev","available":true,"tier":"premium"}
+{"domain":"27.dev","available":true,"tier":"premium"}
+{"domain":"28.dev","available":true,"tier":"premium"}
+{"domain":"29.dev","available":true,"tier":"premium"}
+{"domain":"2a.dev","available":true,"tier":"premium"}
+{"domain":"2b.dev","available":true,"tier":"premium"}
+{"domain":"2c.dev","available":true,"tier":"premium"}
+{"domain":"2d.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"2e.dev","available":true,"tier":"premium"}
+{"domain":"2f.dev","available":true,"tier":"premium"}
+{"domain":"2g.dev","available":true,"tier":"premium"}
+{"domain":"2h.dev","available":true,"tier":"premium"}
+{"domain":"2i.dev","available":true,"tier":"premium"}
+{"domain":"2j.dev","available":true,"tier":"premium"}
+{"domain":"2k.dev","available":true,"tier":"premium"}
+{"domain":"2l.dev","available":true,"tier":"premium"}
+{"domain":"2m.dev","available":true,"tier":"premium"}
+{"domain":"2n.dev","available":true,"tier":"premium"}
+{"domain":"2o.dev","available":true,"tier":"premium"}
+{"domain":"2p.dev","available":true,"tier":"premium"}
+{"domain":"2q.dev","available":true,"tier":"premium"}
+{"domain":"2r.dev","available":true,"tier":"premium"}
+{"domain":"2s.dev","available":true,"tier":"premium"}
+{"domain":"2t.dev","available":true,"tier":"premium"}
+{"domain":"2u.dev","available":true,"tier":"premium"}
+{"domain":"2v.dev","available":true,"tier":"premium"}
+{"domain":"2w.dev","available":true,"tier":"premium"}
+{"domain":"2x.dev","available":true,"tier":"premium"}
+{"domain":"2y.dev","available":true,"tier":"premium"}
+{"domain":"2z.dev","available":true,"tier":"premium"}
+{"domain":"30.dev","available":true,"tier":"premium"}
+{"domain":"31.dev","available":true,"tier":"premium"}
+{"domain":"32.dev","available":true,"tier":"premium"}
+{"domain":"33.dev","available":true,"tier":"premium"}
+{"domain":"34.dev","available":true,"tier":"premium"}
+{"domain":"35.dev","available":true,"tier":"premium"}
+{"domain":"36.dev","available":true,"tier":"premium"}
+{"domain":"37.dev","available":true,"tier":"premium"}
+{"domain":"38.dev","available":true,"tier":"premium"}
+{"domain":"39.dev","available":true,"tier":"premium"}
+{"domain":"3a.dev","available":true,"tier":"premium"}
+{"domain":"3b.dev","available":true,"tier":"premium"}
+{"domain":"3c.dev","available":true,"tier":"premium"}
+{"domain":"3d.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"3e.dev","available":true,"tier":"premium"}
+{"domain":"3f.dev","available":true,"tier":"premium"}
+{"domain":"3g.dev","available":true,"tier":"premium"}
+{"domain":"3h.dev","available":true,"tier":"premium"}
+{"domain":"3i.dev","available":true,"tier":"premium"}
+{"domain":"3j.dev","available":true,"tier":"premium"}
+{"domain":"3k.dev","available":true,"tier":"premium"}
+{"domain":"3l.dev","available":true,"tier":"premium"}
+{"domain":"3m.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"3n.dev","available":true,"tier":"premium"}
+{"domain":"3o.dev","available":true,"tier":"premium"}
+{"domain":"3p.dev","available":true,"tier":"premium"}
+{"domain":"3q.dev","available":true,"tier":"premium"}
+{"domain":"3r.dev","available":true,"tier":"premium"}
+{"domain":"3s.dev","available":true,"tier":"premium"}
+{"domain":"3t.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"3u.dev","available":true,"tier":"premium"}
+{"domain":"3v.dev","available":true,"tier":"premium"}
+{"domain":"3w.dev","available":true,"tier":"premium"}
+{"domain":"3x.dev","available":true,"tier":"premium"}
+{"domain":"3y.dev","available":true,"tier":"premium"}
+{"domain":"3z.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"40.dev","available":true,"tier":"premium"}
+{"domain":"41.dev","available":true,"tier":"premium"}
+{"domain":"42.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"43.dev","available":true,"tier":"premium"}
+{"domain":"44.dev","available":true,"tier":"premium"}
+{"domain":"45.dev","available":true,"tier":"premium"}
+{"domain":"46.dev","available":true,"tier":"premium"}
+{"domain":"47.dev","available":true,"tier":"premium"}
+{"domain":"48.dev","available":true,"tier":"premium"}
+{"domain":"49.dev","available":true,"tier":"premium"}
+{"domain":"4a.dev","available":true,"tier":"premium"}
+{"domain":"4b.dev","available":true,"tier":"premium"}
+{"domain":"4c.dev","available":true,"tier":"premium"}
+{"domain":"4d.dev","available":true,"tier":"premium"}
+{"domain":"4e.dev","available":true,"tier":"premium"}
+{"domain":"4f.dev","available":true,"tier":"premium"}
+{"domain":"4g.dev","available":true,"tier":"premium"}
+{"domain":"4h.dev","available":true,"tier":"premium"}
+{"domain":"4i.dev","available":true,"tier":"premium"}
+{"domain":"4j.dev","available":true,"tier":"premium"}
+{"domain":"4k.dev","available":true,"tier":"premium"}
+{"domain":"4l.dev","available":true,"tier":"premium"}
+{"domain":"4m.dev","available":true,"tier":"premium"}
+{"domain":"4n.dev","available":true,"tier":"premium"}
+{"domain":"4o.dev","available":true,"tier":"premium"}
+{"domain":"4p.dev","available":true,"tier":"premium"}
+{"domain":"4q.dev","available":true,"tier":"premium"}
+{"domain":"4r.dev","available":true,"tier":"premium"}
+{"domain":"4s.dev","available":true,"tier":"premium"}
+{"domain":"4t.dev","available":true,"tier":"premium"}
+{"domain":"4u.dev","available":true,"tier":"premium"}
+{"domain":"4v.dev","available":true,"tier":"premium"}
+{"domain":"4w.dev","available":true,"tier":"premium"}
+{"domain":"4x.dev","available":true,"tier":"premium"}
+{"domain":"4y.dev","available":true,"tier":"premium"}
+{"domain":"4z.dev","available":true,"tier":"premium"}
+{"domain":"50.dev","available":true,"tier":"premium"}
+{"domain":"51.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"52.dev","available":true,"tier":"premium"}
+{"domain":"53.dev","available":true,"tier":"premium"}
+{"domain":"54.dev","available":true,"tier":"premium"}
+{"domain":"55.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"56.dev","available":true,"tier":"premium"}
+{"domain":"57.dev","available":true,"tier":"premium"}
+{"domain":"58.dev","available":true,"tier":"premium"}
+{"domain":"59.dev","available":true,"tier":"premium"}
+{"domain":"5a.dev","available":true,"tier":"premium"}
+{"domain":"5b.dev","available":true,"tier":"premium"}
+{"domain":"5c.dev","available":true,"tier":"premium"}
+{"domain":"5d.dev","available":true,"tier":"premium"}
+{"domain":"5e.dev","available":true,"tier":"premium"}
+{"domain":"5f.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"5g.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"5h.dev","available":true,"tier":"premium"}
+{"domain":"5i.dev","available":true,"tier":"premium"}
+{"domain":"5j.dev","available":true,"tier":"premium"}
+{"domain":"5k.dev","available":true,"tier":"premium"}
+{"domain":"5l.dev","available":true,"tier":"premium"}
+{"domain":"5m.dev","available":true,"tier":"premium"}
+{"domain":"5n.dev","available":true,"tier":"premium"}
+{"domain":"5o.dev","available":true,"tier":"premium"}
+{"domain":"5p.dev","available":true,"tier":"premium"}
+{"domain":"5q.dev","available":true,"tier":"premium"}
+{"domain":"5r.dev","available":true,"tier":"premium"}
+{"domain":"5s.dev","available":true,"tier":"premium"}
+{"domain":"5t.dev","available":true,"tier":"premium"}
+{"domain":"5u.dev","available":true,"tier":"premium"}
+{"domain":"5v.dev","available":true,"tier":"premium"}
+{"domain":"5w.dev","available":true,"tier":"premium"}
+{"domain":"5x.dev","available":true,"tier":"premium"}
+{"domain":"5y.dev","available":true,"tier":"premium"}
+{"domain":"5z.dev","available":true,"tier":"premium"}
+{"domain":"60.dev","available":true,"tier":"premium"}
+{"domain":"61.dev","available":true,"tier":"premium"}
+{"domain":"62.dev","available":true,"tier":"premium"}
+{"domain":"63.dev","available":true,"tier":"premium"}
+{"domain":"64.dev","available":true,"tier":"premium"}
+{"domain":"65.dev","available":true,"tier":"premium"}
+{"domain":"66.dev","available":true,"tier":"premium"}
+{"domain":"67.dev","available":true,"tier":"premium"}
+{"domain":"68.dev","available":true,"tier":"premium"}
+{"domain":"69.dev","available":true,"tier":"premium"}
+{"domain":"6a.dev","available":true,"tier":"premium"}
+{"domain":"6b.dev","available":true,"tier":"premium"}
+{"domain":"6c.dev","available":true,"tier":"premium"}
+{"domain":"6d.dev","available":true,"tier":"premium"}
+{"domain":"6e.dev","available":true,"tier":"premium"}
+{"domain":"6f.dev","available":true,"tier":"premium"}
+{"domain":"6g.dev","available":true,"tier":"premium"}
+{"domain":"6h.dev","available":true,"tier":"premium"}
+{"domain":"6i.dev","available":true,"tier":"premium"}
+{"domain":"6j.dev","available":true,"tier":"premium"}
+{"domain":"6k.dev","available":true,"tier":"premium"}
+{"domain":"6l.dev","available":true,"tier":"premium"}
+{"domain":"6m.dev","available":true,"tier":"premium"}
+{"domain":"6n.dev","available":true,"tier":"premium"}
+{"domain":"6o.dev","available":true,"tier":"premium"}
+{"domain":"6p.dev","available":true,"tier":"premium"}
+{"domain":"6q.dev","available":true,"tier":"premium"}
+{"domain":"6r.dev","available":true,"tier":"premium"}
+{"domain":"6s.dev","available":true,"tier":"premium"}
+{"domain":"6t.dev","available":true,"tier":"premium"}
+{"domain":"6u.dev","available":true,"tier":"premium"}
+{"domain":"6v.dev","available":true,"tier":"premium"}
+{"domain":"6w.dev","available":true,"tier":"premium"}
+{"domain":"6x.dev","available":true,"tier":"premium"}
+{"domain":"6y.dev","available":true,"tier":"premium"}
+{"domain":"6z.dev","available":true,"tier":"premium"}
+{"domain":"70.dev","available":true,"tier":"premium"}
+{"domain":"71.dev","available":true,"tier":"premium"}
+{"domain":"72.dev","available":true,"tier":"premium"}
+{"domain":"73.dev","available":true,"tier":"premium"}
+{"domain":"74.dev","available":true,"tier":"premium"}
+{"domain":"75.dev","available":true,"tier":"premium"}
+{"domain":"76.dev","available":true,"tier":"premium"}
+{"domain":"77.dev","available":true,"tier":"premium"}
+{"domain":"78.dev","available":true,"tier":"premium"}
+{"domain":"79.dev","available":true,"tier":"premium"}
+{"domain":"7a.dev","available":true,"tier":"premium"}
+{"domain":"7b.dev","available":true,"tier":"premium"}
+{"domain":"7c.dev","available":true,"tier":"premium"}
+{"domain":"7d.dev","available":true,"tier":"premium"}
+{"domain":"7e.dev","available":true,"tier":"premium"}
+{"domain":"7f.dev","available":true,"tier":"premium"}
+{"domain":"7g.dev","available":true,"tier":"premium"}
+{"domain":"7h.dev","available":true,"tier":"premium"}
+{"domain":"7i.dev","available":true,"tier":"premium"}
+{"domain":"7j.dev","available":true,"tier":"premium"}
+{"domain":"7k.dev","available":true,"tier":"premium"}
+{"domain":"7l.dev","available":true,"tier":"premium"}
+{"domain":"7m.dev","available":true,"tier":"premium"}
+{"domain":"7n.dev","available":true,"tier":"premium"}
+{"domain":"7o.dev","available":true,"tier":"premium"}
+{"domain":"7p.dev","available":true,"tier":"premium"}
+{"domain":"7q.dev","available":true,"tier":"premium"}
+{"domain":"7r.dev","available":true,"tier":"premium"}
+{"domain":"7s.dev","available":true,"tier":"premium"}
+{"domain":"7t.dev","available":true,"tier":"premium"}
+{"domain":"7u.dev","available":true,"tier":"premium"}
+{"domain":"7v.dev","available":true,"tier":"premium"}
+{"domain":"7w.dev","available":true,"tier":"premium"}
+{"domain":"7x.dev","available":true,"tier":"premium"}
+{"domain":"7y.dev","available":true,"tier":"premium"}
+{"domain":"7z.dev","available":true,"tier":"premium"}
+{"domain":"80.dev","available":true,"tier":"premium"}
+{"domain":"81.dev","available":true,"tier":"premium"}
+{"domain":"82.dev","available":true,"tier":"premium"}
+{"domain":"83.dev","available":true,"tier":"premium"}
+{"domain":"84.dev","available":true,"tier":"premium"}
+{"domain":"85.dev","available":true,"tier":"premium"}
+{"domain":"86.dev","available":true,"tier":"premium"}
+{"domain":"87.dev","available":true,"tier":"premium"}
+{"domain":"88.dev","available":true,"tier":"premium"}
+{"domain":"89.dev","available":true,"tier":"premium"}
+{"domain":"8a.dev","available":true,"tier":"premium"}
+{"domain":"8b.dev","available":true,"tier":"premium"}
+{"domain":"8c.dev","available":true,"tier":"premium"}
+{"domain":"8d.dev","available":true,"tier":"premium"}
+{"domain":"8e.dev","available":true,"tier":"premium"}
+{"domain":"8f.dev","available":true,"tier":"premium"}
+{"domain":"8g.dev","available":true,"tier":"premium"}
+{"domain":"8h.dev","available":true,"tier":"premium"}
+{"domain":"8i.dev","available":true,"tier":"premium"}
+{"domain":"8j.dev","available":true,"tier":"premium"}
+{"domain":"8k.dev","available":true,"tier":"premium"}
+{"domain":"8l.dev","available":true,"tier":"premium"}
+{"domain":"8m.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"8n.dev","available":true,"tier":"premium"}
+{"domain":"8o.dev","available":true,"tier":"premium"}
+{"domain":"8p.dev","available":true,"tier":"premium"}
+{"domain":"8q.dev","available":true,"tier":"premium"}
+{"domain":"8r.dev","available":true,"tier":"premium"}
+{"domain":"8s.dev","available":true,"tier":"premium"}
+{"domain":"8t.dev","available":true,"tier":"premium"}
+{"domain":"8u.dev","available":true,"tier":"premium"}
+{"domain":"8v.dev","available":true,"tier":"premium"}
+{"domain":"8w.dev","available":true,"tier":"premium"}
+{"domain":"8x.dev","available":true,"tier":"premium"}
+{"domain":"8y.dev","available":true,"tier":"premium"}
+{"domain":"8z.dev","available":true,"tier":"premium"}
+{"domain":"90.dev","available":true,"tier":"premium"}
+{"domain":"91.dev","available":true,"tier":"premium"}
+{"domain":"92.dev","available":true,"tier":"premium"}
+{"domain":"93.dev","available":true,"tier":"premium"}
+{"domain":"94.dev","available":true,"tier":"premium"}
+{"domain":"95.dev","available":true,"tier":"premium"}
+{"domain":"96.dev","available":true,"tier":"premium"}
+{"domain":"97.dev","available":true,"tier":"premium"}
+{"domain":"98.dev","available":true,"tier":"premium"}
+{"domain":"99.dev","available":true,"tier":"premium"}
+{"domain":"9a.dev","available":true,"tier":"premium"}
+{"domain":"9b.dev","available":true,"tier":"premium"}
+{"domain":"9c.dev","available":true,"tier":"premium"}
+{"domain":"9d.dev","available":true,"tier":"premium"}
+{"domain":"9e.dev","available":true,"tier":"premium"}
+{"domain":"9f.dev","available":true,"tier":"premium"}
+{"domain":"9g.dev","available":true,"tier":"premium"}
+{"domain":"9h.dev","available":true,"tier":"premium"}
+{"domain":"9i.dev","available":true,"tier":"premium"}
+{"domain":"9j.dev","available":true,"tier":"premium"}
+{"domain":"9k.dev","available":true,"tier":"premium"}
+{"domain":"9l.dev","available":true,"tier":"premium"}
+{"domain":"9m.dev","available":true,"tier":"premium"}
+{"domain":"9n.dev","available":true,"tier":"premium"}
+{"domain":"9o.dev","available":true,"tier":"premium"}
+{"domain":"9p.dev","available":true,"tier":"premium"}
+{"domain":"9q.dev","available":true,"tier":"premium"}
+{"domain":"9r.dev","available":true,"tier":"premium"}
+{"domain":"9s.dev","available":true,"tier":"premium"}
+{"domain":"9t.dev","available":true,"tier":"premium"}
+{"domain":"9u.dev","available":true,"tier":"premium"}
+{"domain":"9v.dev","available":true,"tier":"premium"}
+{"domain":"9w.dev","available":true,"tier":"premium"}
+{"domain":"9x.dev","available":true,"tier":"premium"}
+{"domain":"9y.dev","available":true,"tier":"premium"}
+{"domain":"9z.dev","available":true,"tier":"premium"}
+{"domain":"a0.dev","available":true,"tier":"premium"}
+{"domain":"a1.dev","available":true,"tier":"premium"}
+{"domain":"a2.dev","available":true,"tier":"premium"}
+{"domain":"a3.dev","available":true,"tier":"premium"}
+{"domain":"a4.dev","available":true,"tier":"premium"}
+{"domain":"a5.dev","available":true,"tier":"premium"}
+{"domain":"a6.dev","available":true,"tier":"premium"}
+{"domain":"a7.dev","available":true,"tier":"premium"}
+{"domain":"a8.dev","available":true,"tier":"premium"}
+{"domain":"a9.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"aa.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ab.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ac.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ad.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ae.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"af.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ag.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ah.dev","available":true,"tier":"premium"}
+{"domain":"ai.dev","available":false,"reason":"Reserved; alloc. token required","tier":"premium"}
+{"domain":"aj.dev","available":true,"tier":"premium"}
+{"domain":"ak.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"al.dev","available":true,"tier":"premium"}
+{"domain":"am.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"an.dev","available":true,"tier":"premium"}
+{"domain":"ao.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ap.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"aq.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ar.dev","available":false,"reason":"In use","tier":"standard"}
+{"domain":"as.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"at.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"au.dev","available":false,"reason":"Reserved","tier":"premium"}
+{"domain":"av.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"aw.dev","available":true,"tier":"premium"}
+{"domain":"ax.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ay.dev","available":true,"tier":"premium"}
+{"domain":"az.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"b0.dev","available":true,"tier":"premium"}
+{"domain":"b1.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"b2.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"b3.dev","available":true,"tier":"premium"}
+{"domain":"b4.dev","available":true,"tier":"premium"}
+{"domain":"b5.dev","available":true,"tier":"premium"}
+{"domain":"b6.dev","available":true,"tier":"premium"}
+{"domain":"b7.dev","available":true,"tier":"premium"}
+{"domain":"b8.dev","available":true,"tier":"premium"}
+{"domain":"b9.dev","available":true,"tier":"premium"}
+{"domain":"ba.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"bb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"bc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"bd.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"be.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"bf.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"bg.dev","available":true,"tier":"premium"}
+{"domain":"bh.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"bi.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"bj.dev","available":true,"tier":"premium"}
+{"domain":"bk.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"bl.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"bm.dev","available":true,"tier":"premium"}
+{"domain":"bn.dev","available":true,"tier":"premium"}
+{"domain":"bo.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"bp.dev","available":true,"tier":"premium"}
+{"domain":"bq.dev","available":true,"tier":"premium"}
+{"domain":"br.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"bs.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"bt.dev","available":true,"tier":"premium"}
+{"domain":"bu.dev","available":true,"tier":"premium"}
+{"domain":"bv.dev","available":true,"tier":"premium"}
+{"domain":"bw.dev","available":true,"tier":"premium"}
+{"domain":"bx.dev","available":true,"tier":"premium"}
+{"domain":"by.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"bz.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"c0.dev","available":true,"tier":"premium"}
+{"domain":"c1.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"c2.dev","available":true,"tier":"premium"}
+{"domain":"c3.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"c4.dev","available":true,"tier":"premium"}
+{"domain":"c5.dev","available":true,"tier":"premium"}
+{"domain":"c6.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"c7.dev","available":true,"tier":"premium"}
+{"domain":"c8.dev","available":true,"tier":"premium"}
+{"domain":"c9.dev","available":true,"tier":"premium"}
+{"domain":"ca.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"cb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"cc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"cd.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ce.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"cf.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"cg.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ch.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ci.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"cj.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ck.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"cl.dev","available":true,"tier":"premium"}
+{"domain":"cm.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"cn.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"co.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"cp.dev","available":true,"tier":"premium"}
+{"domain":"cq.dev","available":true,"tier":"premium"}
+{"domain":"cr.dev","available":false,"reason":"In use","tier":"standard"}
+{"domain":"cs.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ct.dev","available":true,"tier":"premium"}
+{"domain":"cu.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"cv.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"cw.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"cx.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"cy.dev","available":true,"tier":"premium"}
+{"domain":"cz.dev","available":true,"tier":"premium"}
+{"domain":"d0.dev","available":true,"tier":"premium"}
+{"domain":"d1.dev","available":true,"tier":"premium"}
+{"domain":"d2.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"d3.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"d4.dev","available":true,"tier":"premium"}
+{"domain":"d5.dev","available":true,"tier":"premium"}
+{"domain":"d6.dev","available":true,"tier":"premium"}
+{"domain":"d7.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"d8.dev","available":true,"tier":"premium"}
+{"domain":"d9.dev","available":true,"tier":"premium"}
+{"domain":"da.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"db.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"dc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"dd.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"de.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"df.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"dg.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"dh.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"di.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"dj.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"dk.dev","available":true,"tier":"premium"}
+{"domain":"dl.dev","available":true,"tier":"premium"}
+{"domain":"dm.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"dn.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"do.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"dp.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"dq.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"dr.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ds.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"dt.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"du.dev","available":true,"tier":"premium"}
+{"domain":"dv.dev","available":true,"tier":"premium"}
+{"domain":"dw.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"dx.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"dy.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"dz.dev","available":true,"tier":"premium"}
+{"domain":"e0.dev","available":true,"tier":"premium"}
+{"domain":"e1.dev","available":true,"tier":"premium"}
+{"domain":"e2.dev","available":true,"tier":"premium"}
+{"domain":"e3.dev","available":true,"tier":"premium"}
+{"domain":"e4.dev","available":true,"tier":"premium"}
+{"domain":"e5.dev","available":true,"tier":"premium"}
+{"domain":"e6.dev","available":true,"tier":"premium"}
+{"domain":"e7.dev","available":true,"tier":"premium"}
+{"domain":"e8.dev","available":true,"tier":"premium"}
+{"domain":"e9.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ea.dev","available":true,"tier":"premium"}
+{"domain":"eb.dev","available":true,"tier":"premium"}
+{"domain":"ec.dev","available":false,"reason":"Reserved","tier":"premium"}
+{"domain":"ed.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ee.dev","available":true,"tier":"premium"}
+{"domain":"ef.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"eg.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"eh.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ei.dev","available":true,"tier":"premium"}
+{"domain":"ej.dev","available":true,"tier":"premium"}
+{"domain":"ek.dev","available":true,"tier":"premium"}
+{"domain":"el.dev","available":true,"tier":"premium"}
+{"domain":"em.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"en.dev","available":true,"tier":"premium"}
+{"domain":"eo.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ep.dev","available":false,"reason":"Reserved","tier":"premium"}
+{"domain":"eq.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"er.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"es.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"et.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"eu.dev","available":false,"reason":"Reserved","tier":"premium"}
+{"domain":"ev.dev","available":true,"tier":"premium"}
+{"domain":"ew.dev","available":true,"tier":"premium"}
+{"domain":"ex.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ey.dev","available":true,"tier":"premium"}
+{"domain":"ez.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"f0.dev","available":true,"tier":"premium"}
+{"domain":"f1.dev","available":true,"tier":"premium"}
+{"domain":"f2.dev","available":true,"tier":"premium"}
+{"domain":"f3.dev","available":true,"tier":"premium"}
+{"domain":"f4.dev","available":true,"tier":"premium"}
+{"domain":"f5.dev","available":true,"tier":"premium"}
+{"domain":"f6.dev","available":true,"tier":"premium"}
+{"domain":"f7.dev","available":true,"tier":"premium"}
+{"domain":"f8.dev","available":true,"tier":"premium"}
+{"domain":"f9.dev","available":true,"tier":"premium"}
+{"domain":"fa.dev","available":true,"tier":"premium"}
+{"domain":"fb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fd.dev","available":true,"tier":"premium"}
+{"domain":"fe.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ff.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fg.dev","available":true,"tier":"premium"}
+{"domain":"fh.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fi.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fj.dev","available":true,"tier":"premium"}
+{"domain":"fk.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fl.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fm.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fn.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fo.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fp.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fq.dev","available":true,"tier":"premium"}
+{"domain":"fr.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fs.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ft.dev","available":true,"tier":"premium"}
+{"domain":"fu.dev","available":true,"tier":"premium"}
+{"domain":"fv.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fw.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fx.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"fy.dev","available":true,"tier":"premium"}
+{"domain":"fz.dev","available":true,"tier":"premium"}
+{"domain":"g0.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"g1.dev","available":true,"tier":"premium"}
+{"domain":"g2.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"g3.dev","available":true,"tier":"premium"}
+{"domain":"g4.dev","available":true,"tier":"premium"}
+{"domain":"g5.dev","available":true,"tier":"premium"}
+{"domain":"g6.dev","available":true,"tier":"premium"}
+{"domain":"g7.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"g8.dev","available":true,"tier":"premium"}
+{"domain":"g9.dev","available":true,"tier":"premium"}
+{"domain":"ga.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"gb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"gc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"gd.dev","available":true,"tier":"premium"}
+{"domain":"ge.dev","available":true,"tier":"premium"}
+{"domain":"gf.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"gg.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"gh.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"gi.dev","available":true,"tier":"premium"}
+{"domain":"gj.dev","available":true,"tier":"premium"}
+{"domain":"gk.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"gl.dev","available":true,"tier":"premium"}
+{"domain":"gm.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"gn.dev","available":true,"tier":"premium"}
+{"domain":"go.dev","available":false,"reason":"In use","tier":"standard"}
+{"domain":"gp.dev","available":true,"tier":"premium"}
+{"domain":"gq.dev","available":true,"tier":"premium"}
+{"domain":"gr.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"gs.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"gt.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"gu.dev","available":true,"tier":"premium"}
+{"domain":"gv.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"gw.dev","available":true,"tier":"premium"}
+{"domain":"gx.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"gy.dev","available":true,"tier":"premium"}
+{"domain":"gz.dev","available":true,"tier":"premium"}
+{"domain":"h0.dev","available":true,"tier":"premium"}
+{"domain":"h1.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"h2.dev","available":true,"tier":"premium"}
+{"domain":"h3.dev","available":true,"tier":"premium"}
+{"domain":"h4.dev","available":true,"tier":"premium"}
+{"domain":"h5.dev","available":true,"tier":"premium"}
+{"domain":"h6.dev","available":true,"tier":"premium"}
+{"domain":"h7.dev","available":true,"tier":"premium"}
+{"domain":"h8.dev","available":true,"tier":"premium"}
+{"domain":"h9.dev","available":true,"tier":"premium"}
+{"domain":"ha.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"hb.dev","available":true,"tier":"premium"}
+{"domain":"hc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"hd.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"he.dev","available":true,"tier":"premium"}
+{"domain":"hf.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"hg.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"hh.dev","available":true,"tier":"premium"}
+{"domain":"hi.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"hj.dev","available":true,"tier":"premium"}
+{"domain":"hk.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"hl.dev","available":true,"tier":"premium"}
+{"domain":"hm.dev","available":true,"tier":"premium"}
+{"domain":"hn.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ho.dev","available":true,"tier":"premium"}
+{"domain":"hp.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"hq.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"hr.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"hs.dev","available":true,"tier":"premium"}
+{"domain":"ht.dev","available":true,"tier":"premium"}
+{"domain":"hu.dev","available":true,"tier":"premium"}
+{"domain":"hv.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"hw.dev","available":true,"tier":"premium"}
+{"domain":"hx.dev","available":true,"tier":"premium"}
+{"domain":"hy.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"hz.dev","available":true,"tier":"premium"}
+{"domain":"i0.dev","available":true,"tier":"premium"}
+{"domain":"i1.dev","available":true,"tier":"premium"}
+{"domain":"i2.dev","available":true,"tier":"premium"}
+{"domain":"i3.dev","available":true,"tier":"premium"}
+{"domain":"i4.dev","available":true,"tier":"premium"}
+{"domain":"i5.dev","available":true,"tier":"premium"}
+{"domain":"i6.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"i7.dev","available":true,"tier":"premium"}
+{"domain":"i8.dev","available":true,"tier":"premium"}
+{"domain":"i9.dev","available":true,"tier":"premium"}
+{"domain":"ia.dev","available":true,"tier":"premium"}
+{"domain":"ib.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ic.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"id.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ie.dev","available":true,"tier":"premium"}
+{"domain":"if.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ig.dev","available":true,"tier":"premium"}
+{"domain":"ih.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ii.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ij.dev","available":true,"tier":"premium"}
+{"domain":"ik.dev","available":true,"tier":"premium"}
+{"domain":"il.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"im.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"in.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"io.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ip.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"iq.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ir.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"is.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"it.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"iu.dev","available":true,"tier":"premium"}
+{"domain":"iv.dev","available":true,"tier":"premium"}
+{"domain":"iw.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ix.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"iy.dev","available":true,"tier":"premium"}
+{"domain":"iz.dev","available":true,"tier":"premium"}
+{"domain":"j0.dev","available":true,"tier":"premium"}
+{"domain":"j1.dev","available":true,"tier":"premium"}
+{"domain":"j2.dev","available":true,"tier":"premium"}
+{"domain":"j3.dev","available":true,"tier":"premium"}
+{"domain":"j4.dev","available":true,"tier":"premium"}
+{"domain":"j5.dev","available":true,"tier":"premium"}
+{"domain":"j6.dev","available":true,"tier":"premium"}
+{"domain":"j7.dev","available":true,"tier":"premium"}
+{"domain":"j8.dev","available":true,"tier":"premium"}
+{"domain":"j9.dev","available":true,"tier":"premium"}
+{"domain":"ja.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"jb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"jc.dev","available":true,"tier":"premium"}
+{"domain":"jd.dev","available":true,"tier":"premium"}
+{"domain":"je.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"jf.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"jg.dev","available":true,"tier":"premium"}
+{"domain":"jh.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ji.dev","available":true,"tier":"premium"}
+{"domain":"jj.dev","available":true,"tier":"premium"}
+{"domain":"jk.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"jl.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"jm.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"jn.dev","available":true,"tier":"premium"}
+{"domain":"jo.dev","available":true,"tier":"premium"}
+{"domain":"jp.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"jq.dev","available":true,"tier":"premium"}
+{"domain":"jr.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"js.dev","available":false,"reason":"In use","tier":"standard"}
+{"domain":"jt.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ju.dev","available":true,"tier":"premium"}
+{"domain":"jv.dev","available":true,"tier":"premium"}
+{"domain":"jw.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"jx.dev","available":true,"tier":"premium"}
+{"domain":"jy.dev","available":true,"tier":"premium"}
+{"domain":"jz.dev","available":true,"tier":"premium"}
+{"domain":"k0.dev","available":true,"tier":"premium"}
+{"domain":"k1.dev","available":true,"tier":"premium"}
+{"domain":"k2.dev","available":true,"tier":"premium"}
+{"domain":"k3.dev","available":true,"tier":"premium"}
+{"domain":"k4.dev","available":true,"tier":"premium"}
+{"domain":"k5.dev","available":true,"tier":"premium"}
+{"domain":"k6.dev","available":true,"tier":"premium"}
+{"domain":"k7.dev","available":true,"tier":"premium"}
+{"domain":"k8.dev","available":true,"tier":"premium"}
+{"domain":"k9.dev","available":true,"tier":"premium"}
+{"domain":"ka.dev","available":false,"reason":"In use","tier":"standard"}
+{"domain":"kb.dev","available":true,"tier":"premium"}
+{"domain":"kc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"kd.dev","available":true,"tier":"premium"}
+{"domain":"ke.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"kf.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"kg.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"kh.dev","available":true,"tier":"premium"}
+{"domain":"ki.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"kj.dev","available":true,"tier":"premium"}
+{"domain":"kk.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"kl.dev","available":true,"tier":"premium"}
+{"domain":"km.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"kn.dev","available":false,"reason":"In use","tier":"standard"}
+{"domain":"ko.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"kp.dev","available":true,"tier":"premium"}
+{"domain":"kq.dev","available":true,"tier":"premium"}
+{"domain":"kr.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ks.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"kt.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ku.dev","available":true,"tier":"premium"}
+{"domain":"kv.dev","available":true,"tier":"premium"}
+{"domain":"kw.dev","available":true,"tier":"premium"}
+{"domain":"kx.dev","available":true,"tier":"premium"}
+{"domain":"ky.dev","available":true,"tier":"premium"}
+{"domain":"kz.dev","available":true,"tier":"premium"}
+{"domain":"l0.dev","available":true,"tier":"premium"}
+{"domain":"l1.dev","available":true,"tier":"premium"}
+{"domain":"l2.dev","available":true,"tier":"premium"}
+{"domain":"l3.dev","available":true,"tier":"premium"}
+{"domain":"l4.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"l5.dev","available":true,"tier":"premium"}
+{"domain":"l6.dev","available":true,"tier":"premium"}
+{"domain":"l7.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"l8.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"l9.dev","available":true,"tier":"premium"}
+{"domain":"la.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"lb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"lc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ld.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"le.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"lf.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"lg.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"lh.dev","available":true,"tier":"premium"}
+{"domain":"li.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"lj.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"lk.dev","available":true,"tier":"premium"}
+{"domain":"ll.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"lm.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ln.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"lo.dev","available":true,"tier":"premium"}
+{"domain":"lp.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"lq.dev","available":true,"tier":"premium"}
+{"domain":"lr.dev","available":true,"tier":"premium"}
+{"domain":"ls.dev","available":true,"tier":"premium"}
+{"domain":"lt.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"lu.dev","available":true,"tier":"premium"}
+{"domain":"lv.dev","available":true,"tier":"premium"}
+{"domain":"lw.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"lx.dev","available":true,"tier":"premium"}
+{"domain":"ly.dev","available":true,"tier":"premium"}
+{"domain":"lz.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"m0.dev","available":true,"tier":"premium"}
+{"domain":"m1.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"m2.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"m3.dev","available":true,"tier":"premium"}
+{"domain":"m4.dev","available":true,"tier":"premium"}
+{"domain":"m5.dev","available":true,"tier":"premium"}
+{"domain":"m6.dev","available":true,"tier":"premium"}
+{"domain":"m7.dev","available":true,"tier":"premium"}
+{"domain":"m8.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"m9.dev","available":true,"tier":"premium"}
+{"domain":"ma.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"md.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"me.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mf.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mg.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mh.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mi.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mj.dev","available":true,"tier":"premium"}
+{"domain":"mk.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ml.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mm.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mn.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mo.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mp.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mq.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mr.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ms.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mt.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mu.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mv.dev","available":true,"tier":"premium"}
+{"domain":"mw.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mx.dev","available":true,"tier":"premium"}
+{"domain":"my.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"mz.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"n0.dev","available":true,"tier":"premium"}
+{"domain":"n1.dev","available":true,"tier":"premium"}
+{"domain":"n2.dev","available":true,"tier":"premium"}
+{"domain":"n3.dev","available":true,"tier":"premium"}
+{"domain":"n4.dev","available":true,"tier":"premium"}
+{"domain":"n5.dev","available":true,"tier":"premium"}
+{"domain":"n6.dev","available":true,"tier":"premium"}
+{"domain":"n7.dev","available":true,"tier":"premium"}
+{"domain":"n8.dev","available":true,"tier":"premium"}
+{"domain":"n9.dev","available":true,"tier":"premium"}
+{"domain":"na.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"nb.dev","available":true,"tier":"premium"}
+{"domain":"nc.dev","available":true,"tier":"premium"}
+{"domain":"nd.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ne.dev","available":true,"tier":"premium"}
+{"domain":"nf.dev","available":true,"tier":"premium"}
+{"domain":"ng.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"nh.dev","available":true,"tier":"premium"}
+{"domain":"ni.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"nj.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"nk.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"nl.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"nm.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"nn.dev","available":true,"tier":"premium"}
+{"domain":"no.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"np.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"nq.dev","available":true,"tier":"premium"}
+{"domain":"nr.dev","available":true,"tier":"premium"}
+{"domain":"ns.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"nt.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"nu.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"nv.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"nw.dev","available":true,"tier":"premium"}
+{"domain":"nx.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ny.dev","available":true,"tier":"premium"}
+{"domain":"nz.dev","available":true,"tier":"premium"}
+{"domain":"o0.dev","available":true,"tier":"premium"}
+{"domain":"o1.dev","available":true,"tier":"premium"}
+{"domain":"o2.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"o3.dev","available":true,"tier":"premium"}
+{"domain":"o4.dev","available":true,"tier":"premium"}
+{"domain":"o5.dev","available":true,"tier":"premium"}
+{"domain":"o6.dev","available":true,"tier":"premium"}
+{"domain":"o7.dev","available":true,"tier":"premium"}
+{"domain":"o8.dev","available":true,"tier":"premium"}
+{"domain":"o9.dev","available":true,"tier":"premium"}
+{"domain":"oa.dev","available":true,"tier":"premium"}
+{"domain":"ob.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"oc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"od.dev","available":true,"tier":"premium"}
+{"domain":"oe.dev","available":true,"tier":"premium"}
+{"domain":"of.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"og.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"oh.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"oi.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"oj.dev","available":true,"tier":"premium"}
+{"domain":"ok.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ol.dev","available":true,"tier":"premium"}
+{"domain":"om.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"on.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"oo.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"op.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"oq.dev","available":true,"tier":"premium"}
+{"domain":"or.dev","available":true,"tier":"premium"}
+{"domain":"os.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ot.dev","available":true,"tier":"premium"}
+{"domain":"ou.dev","available":true,"tier":"premium"}
+{"domain":"ov.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ow.dev","available":true,"tier":"premium"}
+{"domain":"ox.dev","available":true,"tier":"premium"}
+{"domain":"oy.dev","available":true,"tier":"premium"}
+{"domain":"oz.dev","available":true,"tier":"premium"}
+{"domain":"p0.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"p1.dev","available":true,"tier":"premium"}
+{"domain":"p2.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"p3.dev","available":true,"tier":"premium"}
+{"domain":"p4.dev","available":true,"tier":"premium"}
+{"domain":"p5.dev","available":true,"tier":"premium"}
+{"domain":"p6.dev","available":true,"tier":"premium"}
+{"domain":"p7.dev","available":true,"tier":"premium"}
+{"domain":"p8.dev","available":true,"tier":"premium"}
+{"domain":"p9.dev","available":true,"tier":"premium"}
+{"domain":"pa.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"pb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"pc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"pd.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"pe.dev","available":true,"tier":"premium"}
+{"domain":"pf.dev","available":true,"tier":"premium"}
+{"domain":"pg.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ph.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"pi.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"pj.dev","available":true,"tier":"premium"}
+{"domain":"pk.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"pl.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"pm.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"pn.dev","available":true,"tier":"premium"}
+{"domain":"po.dev","available":true,"tier":"premium"}
+{"domain":"pp.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"pq.dev","available":true,"tier":"premium"}
+{"domain":"pr.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ps.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"pt.dev","available":true,"tier":"premium"}
+{"domain":"pu.dev","available":true,"tier":"premium"}
+{"domain":"pv.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"pw.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"px.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"py.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"pz.dev","available":true,"tier":"premium"}
+{"domain":"q0.dev","available":true,"tier":"premium"}
+{"domain":"q1.dev","available":true,"tier":"premium"}
+{"domain":"q2.dev","available":true,"tier":"premium"}
+{"domain":"q3.dev","available":true,"tier":"premium"}
+{"domain":"q4.dev","available":true,"tier":"premium"}
+{"domain":"q5.dev","available":true,"tier":"premium"}
+{"domain":"q6.dev","available":true,"tier":"premium"}
+{"domain":"q7.dev","available":true,"tier":"premium"}
+{"domain":"q8.dev","available":true,"tier":"premium"}
+{"domain":"q9.dev","available":true,"tier":"premium"}
+{"domain":"qa.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"qb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"qc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"qd.dev","available":true,"tier":"premium"}
+{"domain":"qe.dev","available":true,"tier":"premium"}
+{"domain":"qf.dev","available":true,"tier":"premium"}
+{"domain":"qg.dev","available":true,"tier":"premium"}
+{"domain":"qh.dev","available":true,"tier":"premium"}
+{"domain":"qi.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"qj.dev","available":true,"tier":"premium"}
+{"domain":"qk.dev","available":true,"tier":"premium"}
+{"domain":"ql.dev","available":true,"tier":"premium"}
+{"domain":"qm.dev","available":true,"tier":"premium"}
+{"domain":"qn.dev","available":true,"tier":"premium"}
+{"domain":"qo.dev","available":true,"tier":"premium"}
+{"domain":"qp.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"qq.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"qr.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"qs.dev","available":true,"tier":"premium"}
+{"domain":"qt.dev","available":true,"tier":"premium"}
+{"domain":"qu.dev","available":true,"tier":"premium"}
+{"domain":"qv.dev","available":true,"tier":"premium"}
+{"domain":"qw.dev","available":true,"tier":"premium"}
+{"domain":"qx.dev","available":true,"tier":"premium"}
+{"domain":"qy.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"qz.dev","available":true,"tier":"premium"}
+{"domain":"r0.dev","available":true,"tier":"premium"}
+{"domain":"r1.dev","available":true,"tier":"premium"}
+{"domain":"r2.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"r3.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"r4.dev","available":true,"tier":"premium"}
+{"domain":"r5.dev","available":true,"tier":"premium"}
+{"domain":"r6.dev","available":true,"tier":"premium"}
+{"domain":"r7.dev","available":true,"tier":"premium"}
+{"domain":"r8.dev","available":true,"tier":"premium"}
+{"domain":"r9.dev","available":true,"tier":"premium"}
+{"domain":"ra.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"rb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"rc.dev","available":true,"tier":"premium"}
+{"domain":"rd.dev","available":true,"tier":"premium"}
+{"domain":"re.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"rf.dev","available":true,"tier":"premium"}
+{"domain":"rg.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"rh.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ri.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"rj.dev","available":true,"tier":"premium"}
+{"domain":"rk.dev","available":true,"tier":"premium"}
+{"domain":"rl.dev","available":true,"tier":"premium"}
+{"domain":"rm.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"rn.dev","available":true,"tier":"premium"}
+{"domain":"ro.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"rp.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"rq.dev","available":true,"tier":"premium"}
+{"domain":"rr.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"rs.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"rt.dev","available":true,"tier":"premium"}
+{"domain":"ru.dev","available":true,"tier":"premium"}
+{"domain":"rv.dev","available":true,"tier":"premium"}
+{"domain":"rw.dev","available":true,"tier":"premium"}
+{"domain":"rx.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ry.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"rz.dev","available":true,"tier":"premium"}
+{"domain":"s0.dev","available":true,"tier":"premium"}
+{"domain":"s1.dev","available":true,"tier":"premium"}
+{"domain":"s2.dev","available":true,"tier":"premium"}
+{"domain":"s3.dev","available":true,"tier":"premium"}
+{"domain":"s4.dev","available":true,"tier":"premium"}
+{"domain":"s5.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"s6.dev","available":true,"tier":"premium"}
+{"domain":"s7.dev","available":true,"tier":"premium"}
+{"domain":"s8.dev","available":true,"tier":"premium"}
+{"domain":"s9.dev","available":true,"tier":"premium"}
+{"domain":"sa.dev","available":true,"tier":"premium"}
+{"domain":"sb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"sc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"sd.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"se.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"sf.dev","available":true,"tier":"premium"}
+{"domain":"sg.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"sh.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"si.dev","available":true,"tier":"premium"}
+{"domain":"sj.dev","available":true,"tier":"premium"}
+{"domain":"sk.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"sl.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"sm.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"sn.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"so.dev","available":true,"tier":"premium"}
+{"domain":"sp.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"sq.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"sr.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ss.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"st.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"su.dev","available":true,"tier":"premium"}
+{"domain":"sv.dev","available":true,"tier":"premium"}
+{"domain":"sw.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"sx.dev","available":true,"tier":"premium"}
+{"domain":"sy.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"sz.dev","available":true,"tier":"premium"}
+{"domain":"t0.dev","available":true,"tier":"premium"}
+{"domain":"t1.dev","available":true,"tier":"premium"}
+{"domain":"t2.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"t3.dev","available":true,"tier":"premium"}
+{"domain":"t4.dev","available":true,"tier":"premium"}
+{"domain":"t5.dev","available":true,"tier":"premium"}
+{"domain":"t6.dev","available":true,"tier":"premium"}
+{"domain":"t7.dev","available":true,"tier":"premium"}
+{"domain":"t8.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"t9.dev","available":true,"tier":"premium"}
+{"domain":"ta.dev","available":true,"tier":"premium"}
+{"domain":"tb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"tc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"td.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"te.dev","available":true,"tier":"premium"}
+{"domain":"tf.dev","available":false,"reason":"Reserved; alloc. token required","tier":"premium"}
+{"domain":"tg.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"th.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ti.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"tj.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"tk.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"tl.dev","available":true,"tier":"premium"}
+{"domain":"tm.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"tn.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"to.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"tp.dev","available":true,"tier":"premium"}
+{"domain":"tq.dev","available":true,"tier":"premium"}
+{"domain":"tr.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ts.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"tt.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"tu.dev","available":true,"tier":"premium"}
+{"domain":"tv.dev","available":true,"tier":"premium"}
+{"domain":"tw.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"tx.dev","available":true,"tier":"premium"}
+{"domain":"ty.dev","available":true,"tier":"premium"}
+{"domain":"tz.dev","available":true,"tier":"premium"}
+{"domain":"u0.dev","available":true,"tier":"premium"}
+{"domain":"u1.dev","available":true,"tier":"premium"}
+{"domain":"u2.dev","available":true,"tier":"premium"}
+{"domain":"u3.dev","available":true,"tier":"premium"}
+{"domain":"u4.dev","available":true,"tier":"premium"}
+{"domain":"u5.dev","available":true,"tier":"premium"}
+{"domain":"u6.dev","available":true,"tier":"premium"}
+{"domain":"u7.dev","available":true,"tier":"premium"}
+{"domain":"u8.dev","available":true,"tier":"premium"}
+{"domain":"u9.dev","available":true,"tier":"premium"}
+{"domain":"ua.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ub.dev","available":true,"tier":"premium"}
+{"domain":"uc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ud.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ue.dev","available":true,"tier":"premium"}
+{"domain":"uf.dev","available":true,"tier":"premium"}
+{"domain":"ug.dev","available":true,"tier":"premium"}
+{"domain":"uh.dev","available":true,"tier":"premium"}
+{"domain":"ui.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"uj.dev","available":true,"tier":"premium"}
+{"domain":"uk.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ul.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"um.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"un.dev","available":false,"reason":"Reserved","tier":"premium"}
+{"domain":"uo.dev","available":true,"tier":"premium"}
+{"domain":"up.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"uq.dev","available":true,"tier":"premium"}
+{"domain":"ur.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"us.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"ut.dev","available":true,"tier":"premium"}
+{"domain":"uu.dev","available":true,"tier":"premium"}
+{"domain":"uv.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"uw.dev","available":true,"tier":"premium"}
+{"domain":"ux.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"uy.dev","available":true,"tier":"premium"}
+{"domain":"uz.dev","available":true,"tier":"premium"}
+{"domain":"v0.dev","available":true,"tier":"premium"}
+{"domain":"v1.dev","available":true,"tier":"premium"}
+{"domain":"v2.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"v3.dev","available":true,"tier":"premium"}
+{"domain":"v4.dev","available":true,"tier":"premium"}
+{"domain":"v5.dev","available":true,"tier":"premium"}
+{"domain":"v6.dev","available":true,"tier":"premium"}
+{"domain":"v7.dev","available":true,"tier":"premium"}
+{"domain":"v8.dev","available":false,"reason":"In use","tier":"standard"}
+{"domain":"v9.dev","available":true,"tier":"premium"}
+{"domain":"va.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"vb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"vc.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"vd.dev","available":true,"tier":"premium"}
+{"domain":"ve.dev","available":true,"tier":"premium"}
+{"domain":"vf.dev","available":true,"tier":"premium"}
+{"domain":"vg.dev","available":true,"tier":"premium"}
+{"domain":"vh.dev","available":true,"tier":"premium"}
+{"domain":"vi.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"vj.dev","available":true,"tier":"premium"}
+{"domain":"vk.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"vl.dev","available":true,"tier":"premium"}
+{"domain":"vm.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"vn.dev","available":true,"tier":"premium"}
+{"domain":"vo.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"vp.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"vq.dev","available":true,"tier":"premium"}
+{"domain":"vr.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"vs.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"vt.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"vu.dev","available":true,"tier":"premium"}
+{"domain":"vv.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"vw.dev","available":true,"tier":"premium"}
+{"domain":"vx.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"vy.dev","available":true,"tier":"premium"}
+{"domain":"vz.dev","available":true,"tier":"premium"}
+{"domain":"w0.dev","available":true,"tier":"premium"}
+{"domain":"w1.dev","available":true,"tier":"premium"}
+{"domain":"w2.dev","available":true,"tier":"premium"}
+{"domain":"w3.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"w4.dev","available":true,"tier":"premium"}
+{"domain":"w5.dev","available":true,"tier":"premium"}
+{"domain":"w6.dev","available":true,"tier":"premium"}
+{"domain":"w7.dev","available":true,"tier":"premium"}
+{"domain":"w8.dev","available":true,"tier":"premium"}
+{"domain":"w9.dev","available":true,"tier":"premium"}
+{"domain":"wa.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"wb.dev","available":true,"tier":"premium"}
+{"domain":"wc.dev","available":true,"tier":"premium"}
+{"domain":"wd.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"we.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"wf.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"wg.dev","available":true,"tier":"premium"}
+{"domain":"wh.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"wi.dev","available":true,"tier":"premium"}
+{"domain":"wj.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"wk.dev","available":true,"tier":"premium"}
+{"domain":"wl.dev","available":true,"tier":"premium"}
+{"domain":"wm.dev","available":true,"tier":"premium"}
+{"domain":"wn.dev","available":true,"tier":"premium"}
+{"domain":"wo.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"wp.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"wq.dev","available":true,"tier":"premium"}
+{"domain":"wr.dev","available":true,"tier":"premium"}
+{"domain":"ws.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"wt.dev","available":true,"tier":"premium"}
+{"domain":"wu.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"wv.dev","available":true,"tier":"premium"}
+{"domain":"ww.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"wx.dev","available":true,"tier":"premium"}
+{"domain":"wy.dev","available":true,"tier":"premium"}
+{"domain":"wz.dev","available":true,"tier":"premium"}
+{"domain":"x0.dev","available":true,"tier":"premium"}
+{"domain":"x1.dev","available":true,"tier":"premium"}
+{"domain":"x2.dev","available":true,"tier":"premium"}
+{"domain":"x3.dev","available":true,"tier":"premium"}
+{"domain":"x4.dev","available":true,"tier":"premium"}
+{"domain":"x5.dev","available":true,"tier":"premium"}
+{"domain":"x6.dev","available":true,"tier":"premium"}
+{"domain":"x7.dev","available":true,"tier":"premium"}
+{"domain":"x8.dev","available":true,"tier":"premium"}
+{"domain":"x9.dev","available":true,"tier":"premium"}
+{"domain":"xa.dev","available":true,"tier":"premium"}
+{"domain":"xb.dev","available":true,"tier":"premium"}
+{"domain":"xc.dev","available":true,"tier":"premium"}
+{"domain":"xd.dev","available":true,"tier":"premium"}
+{"domain":"xe.dev","available":true,"tier":"premium"}
+{"domain":"xf.dev","available":true,"tier":"premium"}
+{"domain":"xg.dev","available":true,"tier":"premium"}
+{"domain":"xh.dev","available":true,"tier":"premium"}
+{"domain":"xi.dev","available":true,"tier":"premium"}
+{"domain":"xj.dev","available":true,"tier":"premium"}
+{"domain":"xk.dev","available":true,"tier":"premium"}
+{"domain":"xl.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"xm.dev","available":true,"tier":"premium"}
+{"domain":"xn.dev","available":true,"tier":"premium"}
+{"domain":"xo.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"xp.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"xq.dev","available":true,"tier":"premium"}
+{"domain":"xr.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"xs.dev","available":true,"tier":"premium"}
+{"domain":"xt.dev","available":true,"tier":"premium"}
+{"domain":"xu.dev","available":true,"tier":"premium"}
+{"domain":"xv.dev","available":true,"tier":"premium"}
+{"domain":"xw.dev","available":true,"tier":"premium"}
+{"domain":"xx.dev","available":true,"tier":"premium"}
+{"domain":"xy.dev","available":true,"tier":"premium"}
+{"domain":"xz.dev","available":true,"tier":"premium"}
+{"domain":"y0.dev","available":true,"tier":"premium"}
+{"domain":"y1.dev","available":true,"tier":"premium"}
+{"domain":"y2.dev","available":true,"tier":"premium"}
+{"domain":"y3.dev","available":true,"tier":"premium"}
+{"domain":"y4.dev","available":true,"tier":"premium"}
+{"domain":"y5.dev","available":true,"tier":"premium"}
+{"domain":"y6.dev","available":true,"tier":"premium"}
+{"domain":"y7.dev","available":true,"tier":"premium"}
+{"domain":"y8.dev","available":true,"tier":"premium"}
+{"domain":"y9.dev","available":true,"tier":"premium"}
+{"domain":"ya.dev","available":true,"tier":"premium"}
+{"domain":"yb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"yc.dev","available":false,"reason":"In use","tier":"standard"}
+{"domain":"yd.dev","available":true,"tier":"premium"}
+{"domain":"ye.dev","available":true,"tier":"premium"}
+{"domain":"yf.dev","available":true,"tier":"premium"}
+{"domain":"yg.dev","available":true,"tier":"premium"}
+{"domain":"yh.dev","available":true,"tier":"premium"}
+{"domain":"yi.dev","available":true,"tier":"premium"}
+{"domain":"yj.dev","available":true,"tier":"premium"}
+{"domain":"yk.dev","available":true,"tier":"premium"}
+{"domain":"yl.dev","available":true,"tier":"premium"}
+{"domain":"ym.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"yn.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"yo.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"yp.dev","available":true,"tier":"premium"}
+{"domain":"yq.dev","available":true,"tier":"premium"}
+{"domain":"yr.dev","available":true,"tier":"premium"}
+{"domain":"ys.dev","available":true,"tier":"premium"}
+{"domain":"yt.dev","available":true,"tier":"premium"}
+{"domain":"yu.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"yv.dev","available":true,"tier":"premium"}
+{"domain":"yw.dev","available":true,"tier":"premium"}
+{"domain":"yx.dev","available":true,"tier":"premium"}
+{"domain":"yy.dev","available":true,"tier":"premium"}
+{"domain":"yz.dev","available":true,"tier":"premium"}
+{"domain":"z0.dev","available":true,"tier":"premium"}
+{"domain":"z1.dev","available":true,"tier":"premium"}
+{"domain":"z2.dev","available":true,"tier":"premium"}
+{"domain":"z3.dev","available":true,"tier":"premium"}
+{"domain":"z4.dev","available":true,"tier":"premium"}
+{"domain":"z5.dev","available":true,"tier":"premium"}
+{"domain":"z6.dev","available":true,"tier":"premium"}
+{"domain":"z7.dev","available":true,"tier":"premium"}
+{"domain":"z8.dev","available":true,"tier":"premium"}
+{"domain":"z9.dev","available":true,"tier":"premium"}
+{"domain":"za.dev","available":true,"tier":"premium"}
+{"domain":"zb.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"zc.dev","available":true,"tier":"premium"}
+{"domain":"zd.dev","available":true,"tier":"premium"}
+{"domain":"ze.dev","available":true,"tier":"premium"}
+{"domain":"zf.dev","available":true,"tier":"premium"}
+{"domain":"zg.dev","available":true,"tier":"premium"}
+{"domain":"zh.dev","available":true,"tier":"premium"}
+{"domain":"zi.dev","available":true,"tier":"premium"}
+{"domain":"zj.dev","available":true,"tier":"premium"}
+{"domain":"zk.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"zl.dev","available":true,"tier":"premium"}
+{"domain":"zm.dev","available":true,"tier":"premium"}
+{"domain":"zn.dev","available":true,"tier":"premium"}
+{"domain":"zo.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"zp.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"zq.dev","available":true,"tier":"premium"}
+{"domain":"zr.dev","available":true,"tier":"premium"}
+{"domain":"zs.dev","available":true,"tier":"premium"}
+{"domain":"zt.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"zu.dev","available":true,"tier":"premium"}
+{"domain":"zv.dev","available":true,"tier":"premium"}
+{"domain":"zw.dev","available":true,"tier":"premium"}
+{"domain":"zx.dev","available":true,"tier":"premium"}
+{"domain":"zy.dev","available":false,"reason":"In use","tier":"premium"}
+{"domain":"zz.dev","available":false,"reason":"In use","tier":"premium"}
